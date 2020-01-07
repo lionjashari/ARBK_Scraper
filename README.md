@@ -8,6 +8,6 @@ The program stores the data in SQLite, however it can be modified to use any dat
 1. The scraper should not be run without permission.
 2. The offset time of at least 10 seconds between requests should be respected.
 3. The program should not be used in any way to retrieve and/or store data contrary to or forbidden by law. This includes, but is not limited to:
-  * Business Name;
-  * Contacts (Telephone, Email and Address);
-  * Names of business owners.
+   * Business Name;
+   * Contacts (Telephone, Email and Address);
+   * Names of business owners.
