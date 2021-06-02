@@ -15,4 +15,4 @@ scramp==1.2.0
 six==1.15.0
 soupsieve==2.1
 SQLAlchemy==1.3.23
-urllib3==1.26.3
+urllib3==1.26.5
