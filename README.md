@@ -1,8 +1,13 @@
 # ARBK_scraper
 A short program to extract data from the site of the Business Registration Agency of Kosovo.
 
+## Requirements
+ - Python (v. 3.4 or later);
+ - PostgreSQL (v. 10.21 or later);
+ - Libraries in requirements.txt
+
 ## Usage
-The program is to be run from command line by passing the database username and password.
+- In a terminal simply run main.py and pass the database password and username.
 
 ## Terms of use
 1. The scraper should not be run without permission from the Agency.
